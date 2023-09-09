@@ -1,10 +1,10 @@
 export default function Home() {
   return (
     <>
-      <div className="container mx-auto px-4">
-        <h1>Hello world</h1>
+      <div>
+        <h1>Hello world; this is the website for the dummy company</h1>
         <p>
-          This is a dummy paragraph.
+          This is an introduction to the company.
         </p>
       </div>
     </>
